@@ -29,8 +29,7 @@ An OpenAI SDK powered customer support agent application that delivers voice-pow
 1. **Setup Environment**
    ```bash
    # Clone the repository
-   git clone https://github.com/Customer-support-agent.git
-   cd awesome-llm-apps/ai_agent_tutorials/ai_voice_agent_openaisdk
+   git clone https://github.com/anukarnam/Customer-support-agent.git
    
    # Install dependencies
    pip install -r requirements.txt
@@ -69,3 +68,4 @@ An OpenAI SDK powered customer support agent application that delivers voice-pow
   - High-quality text-to-speech using OpenAI's TTS models
   - Multiple voice options for customization
   - Natural speech patterns with proper pacing and emphasis
+
